@@ -5,8 +5,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from config import (
-
+from scraper.config import (
     PROFILE_NAMES,
     REQUEST_DELAY,
     POST_LIMIT,

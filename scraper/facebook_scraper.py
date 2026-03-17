@@ -5,7 +5,7 @@ import pandas as pd
 import os
 from pathlib import Path
 
-from .config import (
+from scraper.config import (
     API_KEY,
     API_HOST,
     POST_LIMIT,
